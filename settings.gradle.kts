@@ -5,6 +5,3 @@ plugins {
 }
 rootProject.name = "MAWC3B3D1"
 
-include("app")
-include("decompose-bom")
-

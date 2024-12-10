@@ -11,5 +11,5 @@ repositories {
 }
 
 dependencies {
-//    implementation(platform("com.arkivanov.decompose:decompose-bom:2.0.0"))
+
 }
